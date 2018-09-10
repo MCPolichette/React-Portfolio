@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Icon Clicky Game",
+    "image": "/portfolio-images/IconClicky.PNG",
+    "link": "https://MCPolichette.github.io/clicky-game",
+    "github": "https://Github.com/MCPolichette/clicky-game",
+    "tech": ["React"],
+    "description": "Learning to build front-end with this fun game."
+  },
+  {
+    "name": "Guest Key",
+    "image": "/portfolio-images/GuestKey.PNG",
+    "link": "https://infinite-lowlands-27810.herokuapp.com/",
+    "github": "https://github.com/MCPolichette/Welcome2MyHome",
+    "tech": ["HandleBars", "QR-Generators", "SQL", "Heroku"],
+    "description": ""
+  },
+  {
+    "name": "Crystal Collector",
+    "image": "/portfolio-images/Crystal.PNG",
+    "link": "https://MCPolichette.github.io/unit-4-game",
+    "github": "https://github.com/MCPolichette/unit-4-game",
+    "tech": ["JQuery"],
+    "description": "An early HTML build.  Fun game that randomizes numbers and images"
+  },
+  {
+    "name": "Friend Finder",
+    "image": "/portfolio-images/FriendFinder.PNG",
+    "link": "https://rocky-chamber-38699.herokuapp.com/",
+    "github": "https://github.com/MCPolichette/friendFinder",
+    "tech": ["Node", "Bootstrap", "Express"],
+    "description": "Using Express!"
+  },
+  {
+    "name": "Super Hero Giphy",
+    "image": "/portfolio-images/SuperGiphy.PNG",
+    "link": "https://mcpolichette.github.io/Super_Hero_Giphy_API/",
+    "github": "https://github.com/MCPolichette/Super_Hero_Giphy_API/",
+    "tech": ["Node", "Bootstrap", "Express"],
+    "description": "Giphy's API"
+  },
+  {
+    "name": "Node Hangman",
+    "image": "/portfolio-images/NodeHangman.PNG",
+    "link": "https://github.com/MCPolichette/node_hangman",
+    "github": "https://github.com/MCPolichette/node_hangman",
+    "tech": ["Node"],
+    "description": "Node Game"
+  },
+  {
+    "name": "Beer Trivia Game",
+    "image": "/portfolio-images/BeerTrivia.PNG",
+    "link": "https://mcpolichette.github.io/TriviaGame/",
+    "github": "https://github.com/MCPolichette/TriviaGame/",
+    "tech": ["JQuery"],
+    "description": "A goofy trivia game"
+  }
+]
