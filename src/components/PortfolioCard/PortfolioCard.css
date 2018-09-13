@@ -1,5 +1,5 @@
-.portfolio {
-  background: green;
-  min-height: 20px;
-  min-width: 20px;
+.card {
+  width: 300px;
+  float: left;
+  margin: auto;
 }

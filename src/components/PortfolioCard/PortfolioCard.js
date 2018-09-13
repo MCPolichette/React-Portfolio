@@ -2,13 +2,23 @@ import React from "react";
 import "./PortfolioCard.css";
 
 const PortfolioCard = props => (
-  <div className="Portfolio">
-    <h1>Name {props.name}</h1>
-    <h3>Image {props.image}</h3>
-    <a href={props.link}>Link {props.link}</a>
-    <a href={props.github}>Github - {props.github}</a>
-    <h3>TECH - {props.tech}</h3>
-    <h3>description : {props.description}</h3>
+  <div className="card medium">
+    <div className="card-image">
+      <img src={props.image} />
+      <span className="card-title">{props.name}</span>
+      <a
+        className="btn-floating halfway-fab waves-effect waves-light red"
+        href={props.github}
+      >
+        <i className="material-icons">+</i>
+      </a>
+    </div>
+    <div className="card-content">
+      <p>{props.description}</p>
+    </div>
+    <div className="card-action">
+      <a href={props.link}>See it working</a>
+    </div>
   </div>
 );
 export default PortfolioCard;

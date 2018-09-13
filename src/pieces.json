@@ -1,7 +1,7 @@
 [
   {
     "name": "Icon Clicky Game",
-    "image": "/portfolio-images/IconClicky.PNG",
+    "image": "/portfolio-images/ClickyGame.PNG",
     "link": "https://MCPolichette.github.io/clicky-game",
     "github": "https://Github.com/MCPolichette/clicky-game",
     "tech": ["React"],
