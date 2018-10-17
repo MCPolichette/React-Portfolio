@@ -10,7 +10,7 @@ const PortfolioCard = props => (
         className="btn-floating halfway-fab waves-effect waves-light red"
         href={props.github}
       >
-        <i className="material-icons">+</i>
+        <i className="material-icons">git</i>
       </a>
     </div>
     <div className="card-content">
