@@ -4,7 +4,9 @@
     "image": "/portfolio-images/ClickyGame.PNG",
     "link": "https://MCPolichette.github.io/clicky-game",
     "github": "https://Github.com/MCPolichette/clicky-game",
-    "tech": ["React"],
+    "tech": [
+      "React"
+    ],
     "description": "Learning to build front-end with this fun game."
   },
   {
@@ -12,15 +14,22 @@
     "image": "/portfolio-images/GuestKey.PNG",
     "link": "https://infinite-lowlands-27810.herokuapp.com/",
     "github": "https://github.com/MCPolichette/Welcome2MyHome",
-    "tech": ["HandleBars", "QR-Generators", "SQL", "Heroku"],
-    "description": ""
+    "tech": [
+      "HandleBars",
+      "QR-Generators",
+      "SQL",
+      "Heroku"
+    ],
+    "description": "Group Project.  An app for homeowners to share basic information with house guests, sitters, and other visitors."
   },
   {
     "name": "Crystal Collector",
     "image": "/portfolio-images/Crystal.PNG",
     "link": "https://MCPolichette.github.io/unit-4-game",
     "github": "https://github.com/MCPolichette/unit-4-game",
-    "tech": ["JQuery"],
+    "tech": [
+      "JQuery"
+    ],
     "description": "An early HTML build.  Fun game that randomizes numbers and images"
   },
   {
@@ -28,7 +37,11 @@
     "image": "/portfolio-images/FriendFinder.PNG",
     "link": "https://rocky-chamber-38699.herokuapp.com/",
     "github": "https://github.com/MCPolichette/friendFinder",
-    "tech": ["Node", "Bootstrap", "Express"],
+    "tech": [
+      "Node",
+      "Bootstrap",
+      "Express"
+    ],
     "description": "Using Express!"
   },
   {
@@ -36,7 +49,11 @@
     "image": "/portfolio-images/SuperGiphy.PNG",
     "link": "https://mcpolichette.github.io/Super_Hero_Giphy_API/",
     "github": "https://github.com/MCPolichette/Super_Hero_Giphy_API/",
-    "tech": ["Node", "Bootstrap", "Express"],
+    "tech": [
+      "Node",
+      "Bootstrap",
+      "Express"
+    ],
     "description": "Giphy's API"
   },
   {
@@ -44,7 +61,9 @@
     "image": "/portfolio-images/NodeHangman.PNG",
     "link": "https://github.com/MCPolichette/node_hangman",
     "github": "https://github.com/MCPolichette/node_hangman",
-    "tech": ["Node"],
+    "tech": [
+      "Node"
+    ],
     "description": "Node Game"
   },
   {
@@ -52,7 +71,19 @@
     "image": "/portfolio-images/BeerTrivia.PNG",
     "link": "https://mcpolichette.github.io/TriviaGame/",
     "github": "https://github.com/MCPolichette/TriviaGame/",
-    "tech": ["JQuery"],
+    "tech": [
+      "JQuery"
+    ],
     "description": "A goofy trivia game"
+  },
+  {
+    "name": "Rent Keeper",
+    "image": "/portfolio-images/BeerTrivia.PNG",
+    "link": "WWW.rentkeeper.net",
+    "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
+    "tech": [
+      "React,  Mongoose, Express"
+    ],
+    "description": "A landlord management app, to collect data from propeties, and communicate with tenants."
   }
 ]
