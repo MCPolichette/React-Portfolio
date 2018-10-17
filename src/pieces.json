@@ -82,7 +82,9 @@
     "link": "WWW.rentkeeper.net",
     "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
     "tech": [
-      "React,  Mongoose, Express"
+      "React",
+      "Mongoose",
+      "Express"
     ],
     "description": "A landlord management app, to collect data from propeties, and communicate with tenants."
   }
