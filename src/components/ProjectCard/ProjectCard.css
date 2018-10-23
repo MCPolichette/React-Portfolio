@@ -3,8 +3,8 @@
 .card {
   width: 19em;
   margin:.5em;
-   background:rgba(165, 50, 4, 0.377);
-   max-height:12em;
+  background:rgba(165, 50, 4, 0.377);
+  max-height:12em;
 }
 .card:hover{
   box-shadow: 10px 10px 5px rgba(68, 64, 64, 0.623);
