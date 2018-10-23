@@ -17,19 +17,9 @@ class App extends Component {
           <div className="row">
             <div className="col s12">
               <p className="App-intro">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-                imperdiet erat eu nisi mattis, a finibus arcu dignissim. Proin
-                at maximus erat. Donec in augue sodales, ultrices purus
-                hendrerit, aliquam lacus. Pellentesque tincidunt sagittis
-                tempus. Donec nibh dui, commodo vitae massa a, congue pretium
-                ligula. Sed consectetur lectus sem, congue rutrum nunc maximus
-                vel. Ut at cursus leo, eu blandit urna. Etiam lectus ex,
-                suscipit non leo in, viverra pellentesque nulla. Phasellus
-                vehicula iaculis orci, vel ultricies lorem molestie quis. Nullam
-                ultricies congue velit id luctus. Etiam vestibulum mi velit, ac
-                auctor ante laoreet eu. Nam quis suscipit ligula, vel mattis
-                nisl. Pellentesque hendrerit eros est, non pharetra enim sodales
-                vel. Vivamus a justo nec nisi sagittis lobortis.
+                Having worked in a few different industries, I bring a new perspective to the table.  I’ve worked labor, retail, manufacturing, and in a laboratory.  Because of  those job’s I’ve been able to take lessons from one industry and apply them elsewhere to improve operations.   I like to take on new challenges, and learn new ways to tackle problems.
+  I am new to programming, but I have finished a course through the University of Utah  working with Javascript, Node, Express, React, Mongodb, SQL and more.
+  
               </p>
             </div>
           </div>

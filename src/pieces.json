@@ -58,7 +58,7 @@
   },
   {
     "name": "Node Hangman",
-    "image": "/portfolio-images/no-image.png",
+    "image": "/portfolio-images/NodeHangman",
     "link": "https://github.com/MCPolichette/node_hangman",
     "github": "https://github.com/MCPolichette/node_hangman",
     "tech": [
@@ -78,7 +78,7 @@
   },
   {
     "name": "Rent Keeper",
-    "image": "/portfolio-images/no-image.png",
+    "image": "/portfolio-images/RentKeeper.png",
     "link": "WWW.rentkeeper.net",
     "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
     "tech": [
