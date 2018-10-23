@@ -1,12 +1,13 @@
 /* font-family: 'Carter One', cursive;*/
 /*font-family: 'Dosis', sans-serif; */
 .card {
-  width: 28em;
+  width: 19em;
   margin:.5em;
    background:rgba(165, 50, 4, 0.377);
+   max-height:12em;
 }
 .card:hover{
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 10px 10px 5px rgba(68, 64, 64, 0.623);
   animation:bump .4s;
 }
 .card-title{
@@ -43,5 +44,6 @@ p{
 @media screen and (max-width: 600px) {
   .card{
     width:100%;
+    max-height:20em;
   }
 }
