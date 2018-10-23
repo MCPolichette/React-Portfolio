@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import PortfolioCard from "./components/PortfolioCard";
+import ProjectCard from "./components/ProjectCard";
 import "./App.css";
 import pieces from "./pieces.json";
 class App extends Component {
@@ -33,10 +34,10 @@ class App extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col s12">
+            <div className="col s12 center">
               <div>
                 {this.state.pieces.map(pieces => (
-                  <PortfolioCard
+                  <ProjectCard
                     name={pieces.name}
                     key={pieces.key}
                     image={pieces.image}

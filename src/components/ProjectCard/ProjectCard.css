@@ -1,0 +1,17 @@
+.card {
+  max-width: 28em;
+  margin:.5em;
+}
+.card:hover{
+  background-color:teal;
+}
+.card-title{
+  font-family: fantasy
+}
+.fa-window-close{
+  float:right;
+  color:red;
+}
+p{
+  font-family:arial;
+}

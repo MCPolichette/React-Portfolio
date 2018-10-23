@@ -3,3 +3,6 @@
   float: left;
   margin:.5em;
 }
+.card:hover{
+  background-color:teal;
+}
