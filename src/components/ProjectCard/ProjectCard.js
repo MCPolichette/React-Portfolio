@@ -3,9 +3,9 @@ import "./ProjectCard.css";
 
 const ProjectCard = props => (
   <div className="card">
-
+    <h5 className="card-topper">{props.name}</h5>
     <div className="card-image waves-effect waves-block waves-light">
-      <h4 className="card-overlay">{props.name}</h4>
+
       <img className="activator" src={props.image} />
 
     </div>

@@ -58,7 +58,7 @@
   },
   {
     "name": "Node Hangman",
-    "image": "/portfolio-images/NodeHangman",
+    "image": "/portfolio-images/NodeHangman.png",
     "link": "https://github.com/MCPolichette/node_hangman",
     "github": "https://github.com/MCPolichette/node_hangman",
     "tech": [

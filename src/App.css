@@ -1,5 +1,14 @@
+body{
+  background-image: url("/portfolio-images/nick-ilyasov-782288-unsplash.jpg");
+  background-attachment: fixed;
+  background-size: 120%;
+}
+
 .App {
   text-align: center;
+  font-family: 'Carter One', cursive;
+  color:rgb(238, 228, 228)
+/* font-family: 'Dosis', sans-serif; */
 }
 
 .App-header {
