@@ -1,8 +1,0 @@
-.card {
-  width: 19em;
-  float: left;
-  margin:.5em;
-}
-.card:hover{
-  background-color:teal;
-}

@@ -7,15 +7,17 @@
   max-height:12em;
 }
 .card:hover{
-  box-shadow: 10px 10px 5px rgba(68, 64, 64, 0.623);
-  animation:bump .4s;
+  animation:bump .6s;
 }
 .card-title{
    font-family: 'Dosis', sans-serif;
 }
-.card-reveal{
-  background-color: rgba(20, 19, 19);
-  color:whitesmoke
+.card .card-reveal{
+  background-color: rgb(0, 209, 236);
+  color:black;
+}
+.links{
+  color:black;
 }
 .fa-window-close{
   float:right;
@@ -30,15 +32,22 @@ p{
  
 }
 @keyframes bump {
-	0%, 100% {
-		-webkit-transform: translateY(0);
-		transform: translateY(0);
+	0%, 33%, 75%, 100% {
+		-webkit-transform: translate(0);
+		transform: translate(0);
 	}
-	50% {
-    		-webkit-transform: translate(-5px,-5px);
-    transform: translate(-5px,-5px); 
-		
-	}
+	14% {
+    		-webkit-transform: translateY(-5px);
+    transform: translateY(-5px); 
+  }
+  45% {
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px); 
+  }
+  90% {
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px); 
+  }
 }
 
 @media screen and (max-width: 600px) {
