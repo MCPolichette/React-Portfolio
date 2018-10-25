@@ -10,11 +10,13 @@ const ProjectCard = props => (
 
     </div>
     <div className="card-reveal">
-      <span className="card-title grey-text text-darken-4">{props.name}
-        <i className="fa fa-window-close" aria-hidden="true" /></span>
+      <span className="card-title grey-text text-darken-4">
+        <span>
+          <a href={props.link}><i class="fas fa-external-link-square-alt"></i></a>  {props.name} <a href={props.github}>  <i class="fab fa-github"></i> </a></span>
 
-      <h5 classname="links"> <a href={props.github}><i class="fab fa-github"></i> Github</a></h5>
-      <h5 classname="links"><a href={props.link}><i class="fas fa-external-link-square-alt"></i> Check it out</a></h5>
+        <i className="fa fa-window-close closing-button" aria-hidden="true" /></span>
+
+
       <p>{props.description}</p>
     </div>
   </div>

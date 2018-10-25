@@ -1,5 +1,5 @@
 body{
-  background-image: url("/portfolio-images/nick-ilyasov-782288-unsplash.jpg");
+  background-image: url("/portfolio-images/ryan-hutton-37733-unsplash.jpg");
   background-attachment: fixed;
   background-size: 120%;
 }
@@ -26,5 +26,15 @@ body{
   font-size: large;
 }
 .center{
-  align-content :center;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: space-around;
+  align-content: flex-start;
+}
+@media screen and (max-width: 600px) {
+  body{
+    background-image: url("/portfolio-images/nick-ilyasov-782288-unsplash.jpg");
+  }
 }
