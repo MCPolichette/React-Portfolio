@@ -25,6 +25,11 @@ body{
 .App-intro {
   font-size: large;
 }
+.bio{
+  font-size:1.5em;
+  font-family: 'Dosis', sans-serif;
+
+}
 .center{
   height: 100%;
   display: flex;
@@ -32,6 +37,9 @@ body{
   padding: 25px 0 50px;
   justify-content: space-around;
   align-content: flex-start;
+}
+.bottom-margin{
+  margin-bottom:3em;
 }
 @media screen and (max-width: 600px) {
   body{

@@ -8,6 +8,7 @@
   background:rgba(165, 50, 4, 0.377);
   max-height:12em;
   border-radius: 25px;
+  
 }
 .card:hover{
   animation:bump .6s;
@@ -19,6 +20,7 @@
 .card .card-reveal{
   background-color: rgb(4, 73, 82);
   color:black;
+  /* padding-top:0.5em; */
 }
 img{
   border-radius: 0px 0px 25px 25px;
@@ -30,9 +32,10 @@ a:hover{
   color:White;
 }
 .closing-button{
-  position:relative;
-  right: -0.75em;
-  top:-.75em;
+  position:fixed;
+  float:right;
+  right: .5em;
+  top:.3em;
   color:red;
 }
 p{

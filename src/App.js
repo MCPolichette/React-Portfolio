@@ -38,6 +38,7 @@ class App extends Component {
             </div>{" "}
           </div>
         </div>
+        <hr className="bottom-margin" />
         <Footer />
       </div>
     );

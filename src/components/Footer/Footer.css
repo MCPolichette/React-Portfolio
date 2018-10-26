@@ -9,6 +9,7 @@
   text-align: center;
   border: #4aaaa5;
   border-width: 15px;
+  z-index: 3;
 }
 .social:hover {
   -webkit-transform: scale(1.1);
