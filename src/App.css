@@ -28,7 +28,9 @@ body{
 .bio{
   font-size:1.5em;
   font-family: 'Dosis', sans-serif;
-
+  
+  background-color: rgba(48, 46, 46, 0.431);
+  padding:1em;
 }
 .center{
   height: 100%;

@@ -2,6 +2,7 @@
   "name": "mark-polichette-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mcpolichette.github.io/React-Portfolio",
   "dependencies": {
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
@@ -9,14 +10,13 @@
     "react-scripts": "1.1.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "homepage": "https://MCPolichette.github.io/React-Portfolio",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
