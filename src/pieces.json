@@ -1,7 +1,7 @@
 [
   {
     "name": "Icon Clicky Game",
-    "image": "/portfolio-images/ClickyGame.PNG",
+    "image": "ClickyGame.PNG",
     "link": "https://MCPolichette.github.io/clicky-game",
     "github": "https://Github.com/MCPolichette/clicky-game",
     "tech": [
@@ -11,7 +11,7 @@
   },
   {
     "name": "Guest Key",
-    "image": "/portfolio-images/GuestKey.PNG",
+    "image": "GuestKey.PNG",
     "link": "https://infinite-lowlands-27810.herokuapp.com/",
     "github": "https://github.com/MCPolichette/Welcome2MyHome",
     "tech": [
@@ -24,7 +24,7 @@
   },
   {
     "name": "Crystal Collector",
-    "image": "/portfolio-images/Crystal.PNG",
+    "image": "Crystal.PNG",
     "link": "https://MCPolichette.github.io/unit-4-game",
     "github": "https://github.com/MCPolichette/unit-4-game",
     "tech": [
@@ -34,7 +34,7 @@
   },
   {
     "name": "Friend Finder",
-    "image": "/portfolio-images/FriendFinder.PNG",
+    "image": "FriendFinder.PNG",
     "link": "https://rocky-chamber-38699.herokuapp.com/",
     "github": "https://github.com/MCPolichette/friendFinder",
     "tech": [
@@ -46,7 +46,7 @@
   },
   {
     "name": "Super Hero Giphy",
-    "image": "/portfolio-images/SuperGiphy.PNG",
+    "image": "SuperGiphy.PNG",
     "link": "https://mcpolichette.github.io/Super_Hero_Giphy_API/",
     "github": "https://github.com/MCPolichette/Super_Hero_Giphy_API/",
     "tech": [
@@ -58,7 +58,7 @@
   },
   {
     "name": "Node Hangman",
-    "image": "/portfolio-images/NodeHangman.png",
+    "image": "NodeHangman.png",
     "link": "https://github.com/MCPolichette/node_hangman",
     "github": "https://github.com/MCPolichette/node_hangman",
     "tech": [
@@ -68,7 +68,7 @@
   },
   {
     "name": "Beer Trivia Game",
-    "image": "/portfolio-images/BeerTrivia.PNG",
+    "image": "BeerTrivia.PNG",
     "link": "https://mcpolichette.github.io/TriviaGame/",
     "github": "https://github.com/MCPolichette/TriviaGame/",
     "tech": [
@@ -78,7 +78,7 @@
   },
   {
     "name": "Rent Keeper",
-    "image": "/portfolio-images/RentKeeper.png",
+    "image": "RentKeeper.png",
     "link": "WWW.rentkeeper.net",
     "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
     "tech": [

@@ -2,7 +2,6 @@
   "name": "mark-polichette-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mcpolichette.github.io/React-Portfolio",
   "dependencies": {
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
@@ -19,5 +18,6 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
-  }
+  },
+  "homepage": "https://mcpolichette.github.io/React-Portfolio"
 }

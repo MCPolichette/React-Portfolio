@@ -1,5 +1,5 @@
 body{
-  background-image: url("/portfolio-images/ryan-hutton-37733-unsplash.jpg");
+  background-image: url("/img/ryan-hutton-37733-unsplash.jpg");
   background-attachment: fixed;
   background-size: 120%;
 }
@@ -45,6 +45,6 @@ body{
 }
 @media screen and (max-width: 600px) {
   body{
-    background-image: url("/portfolio-images/nick-ilyasov-782288-unsplash.jpg");
+    background-image: url("/img/nick-ilyasov-782288-unsplash.jpg");
   }
 }
