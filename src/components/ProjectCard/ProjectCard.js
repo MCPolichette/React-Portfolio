@@ -5,7 +5,7 @@ const ProjectCard = props => (
   <div className="card">
     <h5 className=" activator card-topper">{props.name}</h5>
     <div className="card-image waves-effect waves-block waves-light">
-      <img className="activator" src={window.location.origin + `/img/${props.image}`} />
+      <img className="activator" src={window.location + `/img/${props.image}`} />
     </div>
     <div className="card-reveal">
       <span className="card-title grey-text text-darken-4">
