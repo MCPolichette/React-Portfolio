@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Footer from "./components/Footer";
 import AboutMe from "./components/AboutMe";
 import ProjectCard from "./components/ProjectCard";
+import ProfilePicture from "./components/ProfilePicture";
 import "./App.css";
 import pieces from "./pieces.json";
 class App extends Component {
@@ -11,12 +12,13 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+
         <header className="App-header">
-          <h1>Mark Polichette</h1>
+          <ProfilePicture /><h3>Mark Polichette</h3>
         </header>
         <div className="container">
           <div className="row">
-            <div className="col s12">
+            <div className="col m12">
               <AboutMe />
             </div>
           </div>
