@@ -12,7 +12,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
         <header className="App-header">
           <ProfilePicture /><h3>Mark Polichette</h3>
         </header>
