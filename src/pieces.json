@@ -45,18 +45,6 @@
     "description": "Using Express!"
   },
   {
-    "name": "Something Evil Is Brewing",
-    "image": "SEIB01.PNG",
-    "link": " http://classegames.com/SEIB/",
-    "github": "https://github.com/MCPolichette/missing_code",
-    "tech": [
-      "Unity",
-      "C#",
-      "Blender"
-    ],
-    "description": "This was a project I did with a team for a 72 hour game building challenge.  We had an ambitious goal of having a multilevel 3d game based on the theme: 'Sacrifices Must Be Made'.  It was a great experience jumping into a new team."
-  },
-  {
     "name": "Super Hero Giphy",
     "image": "SuperGiphy.PNG",
     "link": "https://mcpolichette.github.io/Super_Hero_Giphy_API/",
@@ -87,6 +75,18 @@
       "JQuery"
     ],
     "description": "A goofy trivia game"
+  },
+  {
+    "name": "Something Evil Is Brewing",
+    "image": "SEIB01.PNG",
+    "link": " http://classegames.com/SEIB/",
+    "github": null,
+    "tech": [
+      "Unity",
+      "C#",
+      "Blender"
+    ],
+    "description": "This was a project I did with a team for a 72 hour game building challenge.  We had an ambitious goal of having a multilevel 3d game based on the theme: 'Sacrifices Must Be Made'.  It was a great experience jumping into a new team."
   },
   {
     "name": "Rent Keeper",
